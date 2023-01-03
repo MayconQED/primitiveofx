@@ -1,16 +1,14 @@
-### Hi there 👋
+## "No matter where you go, everyone's connected"✨
 
-<!--
-**primitiveofx/primitiveofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="displa: inline_block"><br/>
+    <img align="center" alt="lain" src="https://preview.redd.it/d24wyuord3l81.gif?width=661&auto=webp&s=b49b4ff722a6201fd9de0a65e522582e2f261b2c" width="200" height="200">
+</div>
 
-Here are some ideas to get you started:
+#### • Programming/Markup languages I'm currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### • Contacts:
+f(x)#2497
